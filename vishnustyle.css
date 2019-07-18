@@ -1,0 +1,21 @@
+
+#logo
+{
+margin-top: 0px;
+margin-left: 0px;
+width: 80px;
+height: 80px;
+float: left;
+}
+#heading
+{
+    margin-top: 2px;
+}
+#tableone,th,td
+{
+    border: 5px solid black;
+    width: auto;
+
+    
+   
+}

@@ -1,0 +1,30 @@
+#tableheader
+{
+background-color: red;
+color: white;
+
+
+}
+
+.table,th,td
+{
+    margin-top: 70px;
+    align:center;
+    border: 1px dashed grey;
+    border-spacing: 5px;
+    border-collapse: collapse;
+    
+}
+.h1
+{
+text-align: center;
+
+}
+#image
+{
+    margin-top: 0px;
+    margin-left: 1260px;
+    width: 90px;
+    height: 90px;
+    
+}
